@@ -2,7 +2,7 @@
 Week 4 Homework - Pandas, pandas, pandas
 For this week I selected the Heroes of Pymoli exercise.
 I examined the data and created summary statistics for a number of parameters.
->Gender Statistics
+##Gender Statistics
 >We calculated the overall demographics of the game followed by their purchasing habits.
 >Interestingly we find that while the game is predominantly male, males actually are less profitable.
 >Both of the other categories, female and other/non-disclosed, tend to spend more money on average than the average male.
@@ -10,7 +10,7 @@ I examined the data and created summary statistics for a number of parameters.
 >should consider trying to foster a more diverse player population as this might bring in people more likely to spend money.
 
 
->Age Statistics
+##Age Statistics
 >It appears, as we would expect that this data is normally distributed around the 20-24 age group.
 >There also appears to be a slight skew towards lower ages.
 >Similarly to above, while the 20-24 group has far more total purchase value (because there are so many of them)
@@ -19,7 +19,7 @@ I examined the data and created summary statistics for a number of parameters.
 >An additional datapoint about the age statistics is that the >40 age group has the lowest number and average
 >purchase value.
 
->Repeat Purchases
+##Repeat Purchases
 >Another significant insight for the developers of Heroes of Pymoli is repeat purchases.
 >Typically revenue from a game is driven by a relatively small population who make a large
 >number of purchases and then a large number who make a few. This game appears to have only
